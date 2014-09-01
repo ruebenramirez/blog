@@ -1,0 +1,6 @@
+.*.sw*
+.venv
+*.pyc
+output/
+cache/
+
