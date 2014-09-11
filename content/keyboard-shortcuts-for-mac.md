@@ -9,6 +9,7 @@ I don't see a good way to do this on my mac though.
 
 Options: 
 * [quicksilver](http://qsapp.com/)
+* [alfred](http://www.alfredapp.com/) -- the new hotness (via Jimmy)
 * [ ] other options?
 
 I really miss xbindkeys.
