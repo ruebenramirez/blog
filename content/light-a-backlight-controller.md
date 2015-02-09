@@ -1,5 +1,5 @@
 Title: light: a backlight controller 
-Date: 09-11-2014 11:12
+Date: 02-09-2015 17:12
 Category: sys config 
 
 I have a 2012 15" unibody macbook pro with both intel and nvidia display controllers.  I get better performance out of the nvidia controller so I made it my default since I typically use this machine as a desktop at the house.
