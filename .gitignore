@@ -4,3 +4,4 @@
 output/
 cache/
 
+.hugo_build.lock
