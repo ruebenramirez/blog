@@ -15,7 +15,7 @@ theme = 'devise'
     identifier = "posts"
     name = "Posts"
     title = "Posts"
-    url = "/post/"
+    url = "/posts/"
     weight = -100
   [[menu.main]]
     identifier = "categories"
