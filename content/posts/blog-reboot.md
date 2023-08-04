@@ -1,7 +1,7 @@
 ---
 title: "Blog Reboot"
 date: 2023-08-04T13:38:25-04:00
-draft: true
+draft: false
 ---
 
 What's going on with me?
