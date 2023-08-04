@@ -27,7 +27,7 @@ Sonogram of my liver showed:
 - enlarged
 - no cirrhosis
 
-The original kidney problem was handled easily enough, but brought to light all of these other issues that are contributing to poor health.  The good news is that it's early enough, and all of this is reversible with lifestyle changes and a bit of help from some medication.
+The original kidney problem was handled easily enough, but brought to light all of these other issues that are contributing to poor health.  The good news is that it's early enough, and all of **this is reversible with lifestyle changes** and a bit of help from some medication.
 
 It’s definitely been a wake up call.  I've taken some time from work to prioritize dropping the weight, building a routine of regular exercise, and cleaning up the diet.  I cannot say enough how much I appreciate Nebulaworks support as I prioritize my health.
 
