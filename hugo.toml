@@ -2,6 +2,7 @@ baseURL = 'https://blog.ruebenramirez.com/'
 languageCode = 'en-us'
 title = 'burner of poptarts; breaker of things'
 theme = 'devise'
+copyright = "&copy; 2023, Rueben Ramirez"
 
 # Main menu items
 [menu]
