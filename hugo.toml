@@ -51,3 +51,6 @@ copyright = "&copy; 2023, Rueben Ramirez"
   [[params.social]]
     fa_icon = "fas fa-at fa-1x"
     href = "mailto:ruebendev@gmail.com"
+
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
