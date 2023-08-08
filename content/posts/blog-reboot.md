@@ -24,7 +24,7 @@ Those last few can be super scary for liver complications.
 
 Sonogram of my liver showed:
 - signs of non-alcoholic fatty liver disease (NAFLD)
-- enlarged
+- enlarged size
 - no cirrhosis
 
 The original kidney problem was handled easily enough, but brought to light all of these other issues that are contributing to poor health.  The good news is that it's early enough, and all of **this is reversible with lifestyle changes** and a bit of help from some medication.
