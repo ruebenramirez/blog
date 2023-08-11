@@ -1,8 +1,10 @@
 ---
-title: "Blog Reboot"
+title: "A blog reboot to tackle some health problems"
 date: 2023-08-04T13:38:25-04:00
 draft: false
 ---
+
+## Tackling some health problems
 
 What's going on with me?
 
