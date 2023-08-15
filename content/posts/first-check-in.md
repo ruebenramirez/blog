@@ -6,7 +6,7 @@ draft: false
 
 # 2023-08-15 Check-in
 
-I have some OKRs pretty well defined, and it's time to see how I'm tracking!
+I have [some OKRs defined](/posts/okr-grids-for-health/), and it's time to see how I'm tracking!
 
 I've actually been working out and experimenting with diet changes for about
 6 weeks now.  That said, I have a lot to figure out still.
