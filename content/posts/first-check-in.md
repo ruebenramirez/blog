@@ -4,6 +4,8 @@ date: 2023-08-11T19:52:02-04:00
 draft: false
 ---
 
+# 2023-08-15 Check-in
+
 I have some OKRs pretty well defined, and it's time to see how I'm tracking!
 
 I've actually been working out and experimenting with diet changes for about
