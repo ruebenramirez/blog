@@ -1,5 +1,5 @@
 ---
-title: "First Check In"
+title: "First Check-in"
 date: 2023-08-15T15:52:02-04:00
 draft: false
 ---
