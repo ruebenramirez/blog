@@ -1,6 +1,6 @@
 ---
 title: "First Check In"
-date: 2023-08-11T19:52:02-04:00
+date: 2023-08-15T15:52:02-04:00
 draft: false
 ---
 
