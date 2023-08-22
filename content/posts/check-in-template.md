@@ -1,7 +1,11 @@
 ---
 title: "2023-08-20 Check-in"
 date: 2023-08-20T18:15:02-04:00
-draft: True
+categories:
+- health
+tags:
+- health 
+- check-in
 ---
 
 # 2023-08-20 Check-in

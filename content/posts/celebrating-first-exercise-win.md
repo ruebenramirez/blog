@@ -1,7 +1,11 @@
 ---
 title: "Celebrating First Exercise Win"
 date: 2023-08-08T16:22:28-04:00
-draft: false
+categories:
+- health
+tags:
+- celebrate the wins
+- health
 ---
 
 # Celebrating an exercise win

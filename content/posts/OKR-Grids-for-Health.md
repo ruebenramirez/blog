@@ -1,7 +1,12 @@
 ---
 title: "OKR Grids for Health"
 date: 2023-08-11T15:43:53-04:00
-draft: false
+categories:
+- health
+tags:
+- health 
+- check-in
+- OKR Grids
 ---
 
 ## OKR Grids for Health
