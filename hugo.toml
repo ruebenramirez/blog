@@ -24,7 +24,12 @@ copyright = "&copy; 2023, Rueben Ramirez"
     title = "Categories"
     url = "/categories/"
     weight = -90
-
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    title = "Tags"
+    url = "/tags/"
+    weight = -90
 
 # Configuration Features
 [params]
