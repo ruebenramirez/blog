@@ -1,5 +1,6 @@
 ---
-title: "A blog reboot to tackle some health problems"
+title: "Tackling some health problems"
+
 date: 2023-08-04T13:38:25-04:00
 categories:
 - health
