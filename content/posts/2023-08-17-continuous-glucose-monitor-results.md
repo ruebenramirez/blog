@@ -6,6 +6,9 @@ categories:
 tags:
 - celebrate the wins
 - health
+- blood glucose
+- low carb
+- whole foods
 ---
 
 # Continuous Glucose Monitor Results
