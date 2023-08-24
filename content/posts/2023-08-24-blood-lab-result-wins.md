@@ -49,7 +49,7 @@ I've calculated some "improvement percentages" based on reference range for each
 - Bilirubin:  **42% improvement**
 - Ferritin:  **21% improvement**
 
-##### Not far out from range, so had less work to do here:
+##### Not as far from range, so had less work to do here:
 - Cholesterol
     - HDL: **5% improvement**
     - CHOL/HDLC Ratio: **4% improvement**
