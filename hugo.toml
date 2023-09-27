@@ -7,12 +7,6 @@ copyright = "&copy; 2023, Rueben Ramirez"
 # Main menu items
 [menu]
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    title = "About"
-    url = "/about/"
-    weight = -110
-  [[menu.main]]
     identifier = "posts"
     name = "Posts"
     title = "Posts"
