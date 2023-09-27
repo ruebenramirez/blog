@@ -1,5 +1,5 @@
 ---
-title: "2023 08 24 Blood Lab Result Wins"
+title: "2023-08-24 - Blood Lab Result Wins"
 date: 2023-08-24T13:56:17-05:00
 categories:
 - health
@@ -12,7 +12,7 @@ tags:
 
 # Blood lab result wins!
 
-**TL;DR** I'm ecstatic with my most recent blood lab results!  The things that were most concerning on the original labs are either now corrected or showing significant improvement. 
+**TL;DR** I'm ecstatic with my most recent blood lab results!  The things that were most concerning on the original labs are either now corrected or showing significant improvement.
 
 Over the past 2 months I’ve put in **A LOT** of work to become healthier:
 - Started on Metformin and various vitamins and supplements
@@ -45,7 +45,7 @@ I've calculated some "improvement percentages" based on reference range for each
 - A1c: **77% improvement**
 - Liver Enzymes
     - AST:  **65% improvement**
-    - ALT:  **120% improvement** 
+    - ALT:  **120% improvement**
 - Bilirubin:  **42% improvement**
 - Ferritin:  **21% improvement**
 

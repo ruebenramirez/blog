@@ -1,5 +1,5 @@
 ---
-title: "2023-09-08 an overdue check-in"
+title: "2023-09-08 - an overdue check-in"
 date: 2023-09-08T16:48:52-05:00
 categories:
 - health

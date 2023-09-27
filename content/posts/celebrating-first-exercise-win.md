@@ -1,5 +1,5 @@
 ---
-title: "Celebrating First Exercise Win"
+title: "2023-08-08 - Celebrating First Exercise Win"
 date: 2023-08-08T16:22:28-04:00
 categories:
 - health
