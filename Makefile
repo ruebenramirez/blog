@@ -2,3 +2,6 @@ TAILSCALE_IP=$(shell ip addr show dev tailscale0 | grep "inet " | awk '{print $$
 
 dev-server-run-tailscale:
 	hugo server --bind="$(TAILSCALE_IP)" --port=1313 --baseURL="http://$(TAILSCALE_IP)"
+
+local-server-run:
+	hugo server --port=1313
