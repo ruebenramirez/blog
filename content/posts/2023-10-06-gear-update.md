@@ -61,7 +61,7 @@ A lot of folks are happy with this hydration bladder from Source, so I snagged o
 
 ### Ruck Plate
 
-I started out by just loading as much random stuff as I could into my pack.  This was great for just getting started!  I decided since I've been really enjoying myself rucking almost daily, that it was time to up my game a little.  Instead of carrying 4 laptops in the heat, I'm switching to a single cast iron ruck plate.
+I started out by just loading as much random stuff as I could into my pack.  This turned out great for getting started!  I decided since I've really enjoyed rucking almost daily, that it was time to up my game a little.  Instead of carrying 4 laptops in the heat, I'm switching to a single cast iron ruck plate.
 
 <p>
 <a href="https://a.co/d/5lTdPnz">Cast Iron Ruck Plate</a>
@@ -73,7 +73,7 @@ I started out by just loading as much random stuff as I could into my pack.  Thi
 
 <br/>
 <br/>
-I'm hoping to build up to a 30lb plate over the upcoming months, but I'm off to a great start!
+I'm hoping to build up to a 30lb plate over the upcoming months, but I'm off to a great start for now!
 <br/>
 <br/>
 Happy rucking!
