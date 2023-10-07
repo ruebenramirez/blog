@@ -12,3 +12,4 @@ static/images/2023-10-06-source-hydration-bladder.png filter=lfs diff=lfs merge=
 static/images/2023-10-07-brooks-glycerin-20.png filter=lfs diff=lfs merge=lfs -text
 static/images/2023-10-06--20-pound-ruck-plate.jpg filter=lfs diff=lfs merge=lfs -text
 static/images/2023-10-07-recycled-firefighter-ruck.jpg filter=lfs diff=lfs merge=lfs -text
+static/images/2023-10-07-withings-smart-scale.jpg filter=lfs diff=lfs merge=lfs -text
