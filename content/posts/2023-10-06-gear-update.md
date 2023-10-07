@@ -36,7 +36,7 @@ When I first started walking, I just used the New Balance 993's that I kick arou
 
 ### Backpack
 
-In order to ruck you can use any backpack you like, but I learned very quickly that wide and thickly padded shoulder straps are essential.  I was fortunate to have a great bag for carrying heavy loads long distances, comfortably.
+In order to ruck you can use any backpack you like, but I quickly learned that wide and thickly padded shoulder straps are essential.  I was fortunate to have a great bag for carrying heavy loads long distances, comfortably.
 
 <p>
 <a href="https://recycledfirefighter.com/products/24-hour-backpack">Recycled Firefighter - The Battalion - 24-hour backpack</a>
