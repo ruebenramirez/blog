@@ -12,6 +12,18 @@ tags:
 
 My buddy John called it early: I'm a "gearhead". I love my gear.  I enjoy researching and finding my special "fit" for hobbies and interests. In tech, I love my keyboards.  In our RV travels, I've definitely found all kinds of backpacks and camping gear to geek out on.  Now that I've been rucking daily for a little while, I've started experimenting to find my special setup.  And I think I've found the winning combination.
 
+### Body Composition Smart Scale
+
+I've been tracking my weight regularly for the past 3 months with a simple bathroom scale.  It's done a great job for that.  Now that I'm closing in on 60lbs lost, I want to start tracking the type of weight that I'm losing.  (targeting fat loss while adding muscle)  I don't expect any of these consumer-grade body composition scales to be very accurate, but I do expect to see some trends over time.
+
+The Withings Body+ scale has been really great so far.  The iPhone app is intuitive and makes it easy to track total fat, visceral fat, muscle, BMI, and probably a whole bunch more.
+
+<p>
+<a href="https://www.bestbuy.com/site/withings-body-smart-advanced-body-composition-smart-wi-fi-scale-black/6541711.p?skuId=6541711">Withings Body+ scale</a>
+
+<a href="https://www.bestbuy.com/site/withings-body-smart-advanced-body-composition-smart-wi-fi-scale-black/6541711.p?skuId=6541711"><img src="/images/2023-10-07-withings-smart-scale.jpg" alt="Withings Body+ scale" width="400" /></a>
+</p>
+
 ### Running Shoes
 
 When I first started walking, I just used the New Balance 993's that I kick around in daily.  As I added more miles, my feet started to ache, and I eventually found myself visiting the podiatrist with a stress-related injury.  My doctor recommended more cushion for the miles that I was covering.  I tried out a LOT of options, but felt right at home in these Brooks Glycerin 20s.  My feet love these shoes.
