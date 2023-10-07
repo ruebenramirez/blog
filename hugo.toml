@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'burner of poptarts; breaker of things'
 theme = 'devise'
 copyright = "&copy; 2023, Rueben Ramirez"
+googleAnalytics = "G-3JN1FB54C9"
 
 # Main menu items
 [menu]
