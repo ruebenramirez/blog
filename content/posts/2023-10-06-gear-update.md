@@ -29,7 +29,7 @@ In order to ruck you can use any back you like, but I learned very quickly that 
 <p>
 <a href="https://recycledfirefighter.com/products/24-hour-backpack">Recycled Firefighter - The Battalion - 24-hour backpack</a>
 
-<a href="https://recycledfirefighter.com/products/24-hour-backpack"><img src="/images/2023-10-07-recycled-firefighter-ruck.png" alt="Recycled Firefighter - The Battalion - 24-hour backpack" width="400" /></a>
+<a href="https://recycledfirefighter.com/products/24-hour-backpack"><img src="/images/2023-10-07-recycled-firefighter-ruck.jpg" alt="Recycled Firefighter - The Battalion - 24-hour backpack" width="400" /></a>
 </p>
 
 It's a really simple bag with solid build quality.  I really like the story behind Recycled Firefighter.  Jake, the owner, is a great guy building cool stuff.  These backpacks tend to be out of stock often, so snag one if you see them available!
@@ -54,7 +54,7 @@ I started out by just loading as much random stuff as I could into my pack.  Thi
 <p>
 <a href="https://a.co/d/5lTdPnz">Cast Iron Ruck Plate</a>
 
-<a href="https://a.co/d/5lTdPnz"><img src="/images/2023-10-06--20-pound-ruck-plate.png" alt="cast iron ruck plate" width="400" /></a>
+<a href="https://a.co/d/5lTdPnz"><img src="/images/2023-10-06--20-pound-ruck-plate.jpg" alt="cast iron ruck plate" width="400" /></a>
 </p>
 
 
