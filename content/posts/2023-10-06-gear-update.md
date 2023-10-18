@@ -34,6 +34,20 @@ When I first started walking, I just used the New Balance 993's that I kick arou
 <a href="https://www.dickssportinggoods.com/p/brooks-mens-glycerin-20-running-shoes-22bromglycrn20blkmnsa/22bromglycrn20blkmnsa"><img src="/images/2023-10-07-brooks-glycerin-20.png" alt="Brooks Glycerin 20" width="400" /></a>
 </p>
 
+### Bone-conduction headphones
+
+I've spent a lot of time walking lately.  This means I've had a lot of time to think and to listen to podcasts.  I have some Apple [Airpods](https://www.apple.com/airpods-pro/), but they don't stay in my ears very well and I always forget to charge them.  I have some [wired sony earbuds](https://www.sony.com/et/electronics/in-ear-headphones/mdr-xb55ap) that sound great and don't need to be charged so they end up being used more often.  I had a close call with a car though while I was running and listening to music.  I decided to look into open ear audio to be more aware of my surroundings.
+
+I researched a bunch of different options but found these off-brand [bone-conducting headphones](https://a.co/d/0KeUqt3) that have been really great.  What's even nicer about these is that they're waterproof (not all models are) so I can use these while I'm in the pool also!  They're bluetooth (so still something to charge) but I'm a big fan of not being ran over, so it's an alright trade.
+
+
+<p>
+<a href="https://a.co/d/0KeUqt3">Swimming Headphones Bone Conduction Headphones</a>
+
+<a href="https://a.co/d/0KeUqt3"><img src="/images/2023-11-04_20-15-bone-conducting-headphones.png" alt="Swimming Headphones Bone Conduction Headphones" width="400" /></a>
+</p>
+
+
 ### Backpack
 
 In order to ruck you can use any backpack you like, but I quickly learned that wide and thickly padded shoulder straps are essential.  I was fortunate to have a great bag for carrying heavy loads long distances, comfortably.
