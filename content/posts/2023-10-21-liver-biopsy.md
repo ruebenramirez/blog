@@ -1,6 +1,6 @@
 ---
 title: "2023-10-21 - Liver Biopsy"
-date: 2023-11-04T20:45:12-05:00
+date: 2023-10-21T20:45:12-05:00
 categories:
 - health
 tags:
