@@ -89,8 +89,7 @@ My hepatologist is now working with my insurance company to approve a liver biop
 
 In the meantime, I'm continuing to add more exercise and general activity to my day.  Even though my diet is improved significantly, there's always room for growth.  Every day I'm learning more about exercise, nutrition, and other aspects of my condition that I can tweak and otherwise work on.
 
-So yep, this is pretty scary stuff.  I do still truly believe that I have a fighting chance at recovery, though.  And those that know me, know I'm a hell of a fighter.
-
+So yep, this is pretty scary stuff.  I do still truly believe that I have a fighting chance at recovery, though.
 
 ## Resources
 
