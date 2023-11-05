@@ -30,6 +30,10 @@ It was an early morning for us; we checked in at 5am.  Monica wasn't allowed to 
 
 To kick things off, I was given some Ativan and Norco to help with anxiety and pain.  Once those took hold, the team used an ultrasound to find a good entry point for the needle.  Then the doctor gave me a few shots of local anesthetic, the second deeper than the first.  Then a little pressure, a "click" and then the hard part was all over.
 
+<p>
+<img src="/images/2023-10-17-liver-biopsy-tissue.jpg" alt="Liver Biopsy tissue" width="400" />
+</p>
+
 The team monitored me for bleeding for a couple of hours and then Monica picked me up.
 
 ### Recovery
