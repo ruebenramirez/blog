@@ -8,7 +8,7 @@ tags:
 - check-in
 ---
 
-# 2023-09-14 - Bad news from my first Fibroscan
+## 2023-09-14 - Bad news from my first Fibroscan
 
 This is a longer post so TL;DR: my first Fibroscan yielded some scary results indicating I'm worse off than I or my doctors originally thought.  I'm still making awesome progress to get into better shape though.
 

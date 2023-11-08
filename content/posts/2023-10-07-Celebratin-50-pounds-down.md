@@ -8,7 +8,7 @@ tags:
 - health
 ---
 
-# 2023-10-07 - Celebrating 50 Pounds Down!
+## 2023-10-07 - Celebrating 50 Pounds Down!
 
 
 Here's what 50 lbs of difference looks like:
