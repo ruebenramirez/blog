@@ -10,7 +10,7 @@ tags:
 
 
 
-# 2023-10-04 - a Great Day of Rucking
+## 2023-10-04 - a Great Day of Rucking
 
 Not every day is like this, but it was so rewarding accomplishing this!
 

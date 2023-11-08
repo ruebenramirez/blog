@@ -9,7 +9,7 @@ tags:
 ---
 
 
-# 2023-09-12 - Three Hours on a Treadmill
+## 2023-09-12 - Three Hours on a Treadmill
 
 I challenged myself on the treadmill today.  I was able to walk 3 hours and nearly hit 10 miles.  This is a testament to the daily training I've committed.
 
