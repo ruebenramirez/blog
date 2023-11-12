@@ -1,4 +1,8 @@
+binary=scrape
+
 all:
 	go get ./...
-	go build -o scrape .
-	./scrape
+	go build -o $(binary) .
+	date
+	ls -l $(binary)
+	./$(binary)
