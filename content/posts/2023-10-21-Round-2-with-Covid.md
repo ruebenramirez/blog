@@ -9,7 +9,6 @@ tags:
 - covid
 ---
 
-## 2023-10-23 - Round 2 With Covid
 
 I recently had a [liver biopsy](/posts/2023-10-21-liver-biopsy/) in San Antonio, and we decided that it would be safer for me to recover in a hotel closer to the medical center area of town.  We got Covid halfway through our stay at the hotel.  All things considered, I'm glad I recovered with the peace of mind of being close to emergency care if needed.
 

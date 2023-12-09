@@ -8,7 +8,6 @@ tags:
 - check-in
 ---
 
-## 2023-08-15 Check-in
 
 I have [some OKRs defined](/posts/okr-grids-for-health/), and it's time to see how I'm tracking!
 

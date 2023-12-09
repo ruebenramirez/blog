@@ -8,7 +8,6 @@ tags:
 - check-in
 ---
 
-## 2023-10-21 Liver Biopsy
 
 ### So what is a liver biopsy?
 

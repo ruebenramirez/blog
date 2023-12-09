@@ -9,7 +9,6 @@ tags:
 - OKR Grids
 ---
 
-## OKR Grids for Health
 
 If you haven't at least skimmed my blog reboot post yet, it might be helpful to understand [why I'm doing all of this](/posts/blog-reboot/).
 

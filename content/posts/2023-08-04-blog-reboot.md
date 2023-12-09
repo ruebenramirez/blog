@@ -9,7 +9,6 @@ tags:
 - check-in
 ---
 
-## Tackling some health problems
 
 What's going on with me?
 

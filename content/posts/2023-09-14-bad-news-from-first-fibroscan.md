@@ -8,12 +8,10 @@ tags:
 - check-in
 ---
 
-## 2023-09-14 - Bad news from my first Fibroscan
-
 This is a longer post so TL;DR: my first Fibroscan yielded some scary results indicating I'm worse off than I or my doctors originally thought.  I'm still making awesome progress to get into better shape though.
 
 
-## First, a little context...
+### First, a little context...
 
 Let's start with some terminology
 - Non-alcoholic Fatty Liver Disease (NAFLD) has been renamed to Metabolic dysfunction-associated steatotic liver Disease (**MASLD**)
@@ -31,13 +29,13 @@ Before zooming into all the technical details of the Fibroscan, I have to first 
 
 So let's dig in.
 
-## What is a Fibroscan?
+#### What is a Fibroscan?
 
 Fibroscan is a really awesome diagnostic tool that provides accurate reporting of liver fat levels and liver damage levels.
 
 Before Fibroscans, the gold standard for determining this information has been liver biopsy.  This would require a couple of local anesthetics, and then poking your liver with a HUGE needle to grab a chunk of tissue to observe under a microscope.  This is still relied upon when other tests are inconclusive.
 
-#### Steatosis scoring
+##### Steatosis scoring
 
 This measures the amount of fat stored in the liver.  The higher this score, the more fat contained in the liver.
 
@@ -50,11 +48,11 @@ This measures the amount of fat stored in the liver.  The higher this score, the
 
 source: https://www.mskcc.org/cancer-care/patient-education/understanding-your-fibroscan-results
 
-##### My steatosis score (CAP)
+###### My steatosis score (CAP)
 
 Today, I'm currently in the upper range of `S2 grade`.  Even though I've made so much progress, this clearly indicates that I have a lot more progress to make to lower this number.
 
-#### Fibrosis score for Non-alcoholic Fatty Liver Disease (NAFLD or NASH)
+##### Fibrosis score for Non-alcoholic Fatty Liver Disease (NAFLD or NASH)
 
 This measures the scarring (damage) of the liver.  The higher this score the more damage accumulated in the liver.
 
@@ -67,12 +65,12 @@ This measures the scarring (damage) of the liver.  The higher this score the mor
 
 source: https://www.mskcc.org/cancer-care/patient-education/understanding-your-fibroscan-results
 
-##### My fibrosis score
+###### My fibrosis score
 
 Today, I'm currently at the beginning at the range of `F4 fibrosis` scoring.  This was an incredibly surprising and, honestly, scary finding.
 
 
-## Recap
+### Recap
 
 `S2` grade for fat in the liver:
 - I have to drop this fat as quickly as possible.  If not, the damage to my liver will continue to progress.
@@ -83,7 +81,7 @@ Today, I'm currently at the beginning at the range of `F4 fibrosis` scoring.  Th
 - The poor diet and generally sedentary lifestyle over the years has caused me to carry far too much weight for too long.
 - This scan result shows the fat in my liver has caused an advanced level of damage.
 
-## What now?
+### What now?
 
 My hepatologist is now working with my insurance company to approve a liver biopsy. This procedure will help to confirm the results of this Fibroscan and provide additional information for appropriate treatment.
 
@@ -91,7 +89,7 @@ In the meantime, I'm continuing to add more exercise and general activity to my 
 
 So yep, this is pretty scary stuff.  I do still truly believe that I have a fighting chance at recovery, though.
 
-## Resources
+### Resources
 
 - [An Overview of Metabolic Dysfunction-associated Steatotic Liver Disease](https://www.verywellhealth.com/how-dangerous-is-non-alcoholic-fatty-liver-disease-2223390)
 - [Understanding Your FibroScan Results](https://www.mskcc.org/cancer-care/patient-education/understanding-your-fibroscan-results)

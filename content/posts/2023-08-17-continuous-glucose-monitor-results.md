@@ -11,7 +11,6 @@ tags:
 - whole foods
 ---
 
-## Continuous Glucose Monitor Results
 
 For two weeks I tracked my blood glucose (aka "blood sugar") levels with a Continuous Glucose Monitor (CGM).  A CGM is a small device about the size of 2 stacked quarters that you apply to your arm.  It has a very tiny needle and some strong adhesive that allows the device to stick for 14 days.
 

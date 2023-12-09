@@ -9,7 +9,6 @@ tags:
 ---
 
 
-## 2023-09-08 Check-in
 
 Original [OKRs post](/posts/okr-grids-for-health/) I'm tracking against.
 

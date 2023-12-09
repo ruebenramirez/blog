@@ -8,7 +8,6 @@ tags:
 - check-in
 ---
 
-## 2023-10-30 - Good news from my biopsy
 
 Not too long ago, I had a [Fibroscan that provided some really scary results](/posts/2023-09-14-bad-news-from-first-fibroscan/).  Because of those results, my doctors recommended a liver biopsy.
 

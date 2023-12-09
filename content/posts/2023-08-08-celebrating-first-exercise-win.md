@@ -8,7 +8,6 @@ tags:
 - health
 ---
 
-## Celebrating an exercise win
 
 This might be super cheesy, but I’m so proud of myself.  There’s no way I could have done this just a month ago!
 

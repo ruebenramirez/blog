@@ -10,7 +10,6 @@ tags:
 ---
 
 
-## Blood lab result wins!
 
 **TL;DR** I'm ecstatic with my most recent blood lab results!  The things that were most concerning on the original labs are either now corrected or showing significant improvement.
 

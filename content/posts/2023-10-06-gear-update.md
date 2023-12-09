@@ -8,7 +8,6 @@ tags:
 - check-in
 ---
 
-## 2023-10-06 - Gear Update
 
 My buddy John called it early: I'm a "gearhead". I love my gear.  I enjoy researching and finding my special "fit" for hobbies and interests. In tech, I love my keyboards.  In our RV travels, I've definitely found all kinds of backpacks and camping gear to geek out on.  Now that I've been rucking daily for a little while, I've started experimenting to find my special setup.  And I think I've found the winning combination.
 
