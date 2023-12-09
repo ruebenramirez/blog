@@ -1,5 +1,5 @@
 ---
-title: "2023-11-05 - Celebrating 60 pounds down!"
+title: "Celebrating 60 pounds down!"
 date: 2023-11-05T00:05:48-05:00
 categories:
 - health

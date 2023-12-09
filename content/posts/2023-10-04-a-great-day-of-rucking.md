@@ -1,6 +1,6 @@
 ---
-title: "2023-10-04 - a Great Day of Rucking"
-date: 2023-10-06T23:13:49-05:00
+title: "a Great Day of Rucking"
+date: 2023-10-04T23:13:49-05:00
 categories:
 - health
 tags:

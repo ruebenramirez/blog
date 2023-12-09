@@ -1,5 +1,5 @@
 ---
-title: "2023-08-04 - Tackling some health problems"
+title: "Tackling some health problems"
 
 date: 2023-08-04T13:38:25-04:00
 categories:

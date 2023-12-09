@@ -1,5 +1,5 @@
 ---
-title: "2023-10-06 - Gear Update"
+title: "Gear Update"
 date: 2023-10-06T23:43:40-05:00
 categories:
 - health

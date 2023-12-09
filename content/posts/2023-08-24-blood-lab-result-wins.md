@@ -1,5 +1,5 @@
 ---
-title: "2023-08-24 - Blood Lab Result Wins"
+title: "Blood Lab Result Wins"
 date: 2023-08-24T13:56:17-05:00
 categories:
 - health

@@ -1,5 +1,5 @@
 ---
-title: "2023-08-15 - First Check-in"
+title: "First Check-in"
 date: 2023-08-15T15:52:02-04:00
 categories:
 - health

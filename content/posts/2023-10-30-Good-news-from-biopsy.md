@@ -1,5 +1,5 @@
 ---
-title: "2023-10-30 - Good news from my biopsy"
+title: "Good news from my biopsy"
 date: 2023-10-30T23:19:26-05:00
 categories:
 - health

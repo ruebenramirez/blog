@@ -1,5 +1,5 @@
 ---
-title: "2023-08-17 - Continuous Glucose Monitor Results"
+title: "Continuous Glucose Monitor Results"
 date: 2023-08-17T10:02:11-05:00
 categories:
 - health

@@ -1,5 +1,5 @@
 ---
-title: "2023-09-14 - Bad news from my first Fibroscan"
+title: "Bad news from my first Fibroscan"
 date: 2023-09-14T13:19:46-05:00
 categories:
 - health

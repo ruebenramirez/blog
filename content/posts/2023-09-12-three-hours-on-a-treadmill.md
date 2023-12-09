@@ -1,5 +1,5 @@
 ---
-title: "2023-09-12 - Three Hours on a Treadmill"
+title: "Three Hours on a Treadmill"
 date: 2023-09-12T14:31:27-05:00
 categories:
 - health

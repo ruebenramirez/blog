@@ -1,5 +1,5 @@
 ---
-title: "2023-10-23 - Round 2 With Covid"
+title: "Round 2 With Covid"
 date: 2023-10-23T22:49:43-05:00
 categories:
 - health
