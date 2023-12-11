@@ -43,7 +43,8 @@ Now that I've lost a significant amount of weight, I feel more confident in how 
 - ginger, black, or green tea
 #### Limiting calories
 
-I limit the calories that I eat in a given day to 1200 - 1700 per day.  This 500 calorie range depends on how much work I put into exercise for the day.  If I put in a LOT of work, I will
+I limit the calories that I eat in a given day to 1200 - 1700 per day.  This 500 calorie range depends on how much work I put into exercise for the day.  If I put in a LOT of work, I will up the calories a bit more for the day.
+
 #### Intermittent fasting
 
 My typical intermittent fasting (IF) schedule is 16 hours of fasting followed by an 8 hour eating window.  In daily practice, this means I usually skip breakfast and have a late lunch (1-2pm) and early dinner (6-7pm).  I only eat from 1-8pm.
