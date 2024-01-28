@@ -26,7 +26,7 @@ Over the past 2 months I’ve put in **A LOT** of work to become healthier:
 
 ### On with the results
 
-I completed some more blood work this past week and finally have the results to compare to the original [scary labs](/posts/blog-reboot/).
+I completed some more blood work this past week and finally have the results to compare to the original [scary labs](/posts/2023-08-04-blog-reboot/).
 
 #### Problematic numbers that I’ve corrected back to normal range:
 - Fasting Blood Glucose

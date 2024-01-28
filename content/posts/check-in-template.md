@@ -9,7 +9,7 @@ tags:
 - check-in
 ---
 
-Original [OKRs post](/posts/okr-grids-for-health/) I'm tracking against.
+Original [OKRs post](/posts/2023-08-11-okr-grids-for-health/) I'm tracking against.
 
 ### OKR Confidence
 

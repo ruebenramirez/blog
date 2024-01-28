@@ -10,7 +10,7 @@ tags:
 ---
 
 
-If you haven't at least skimmed my blog reboot post yet, it might be helpful to understand [why I'm doing all of this](/posts/blog-reboot/).
+If you haven't at least skimmed my blog reboot post yet, it might be helpful to understand [why I'm doing all of this](/posts/2023-08-04-blog-reboot/).
 
 ### How to read an OKR Grid:
 

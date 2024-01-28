@@ -9,7 +9,7 @@ tags:
 ---
 
 
-I have [some OKRs defined](/posts/okr-grids-for-health/), and it's time to see how I'm tracking!
+I have [some OKRs defined](/posts/2023-08-11-okr-grids-for-health/), and it's time to see how I'm tracking!
 
 I've actually been working out and experimenting with diet changes for about
 6 weeks now.  That said, I have a lot to figure out still.
@@ -101,7 +101,7 @@ Last weeks priorities:
 - **P1: blog post: 1st check-in**
   - you're reading it!
 - **P1: blog post: OKR Grid**
-  - tracking my progress via [my Health OKR Grid](/posts/okr-grids-for-health/)
+  - tracking my progress via [my Health OKR Grid](/posts/2023-08-11-okr-grids-for-health/)
 - **P2: 1 day water fast**
   - I've completed 2 of these: one last week and the other this week.
   - This seems to be easier to do than I remember attempts from the past.  I'm sure the diet is helping on this front.
