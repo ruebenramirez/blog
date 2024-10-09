@@ -2,7 +2,7 @@ baseURL = 'https://blog.rueb.dev/'
 languageCode = 'en-us'
 title = 'burner of poptarts; breaker of things'
 theme = 'devise'
-copyright = "&copy; 2023, Rueben Ramirez"
+copyright = "&copy; 2024, Rueben Ramirez"
 googleAnalytics = ""
 
 # Main menu items
