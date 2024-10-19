@@ -3,6 +3,7 @@
 *.pyc
 output/
 cache/
+.envrc
 .direnv
 
 public/*
