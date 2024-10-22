@@ -1,5 +1,5 @@
 ---
-title: "Training for My First 5k"
+title: "Training for My First 5k run"
 date: 2024-10-09T10:49:00-05:00
 categories:
 - health
@@ -7,13 +7,13 @@ tags:
 - health
 ---
 
-I've walked some 5k events in the past, but I've never trained to run one from
-start to finish.  I've felt inspired to start training to run and the C25k
-approach seems like a well worn path to success.
+I've walked a 5k but never trained to run one from start to finish.
 
-I found [Garmin has some free training programs for running](https://connect.garmin.com/features/coach/).
-One of the requirements for the training I'm signing up for is to commit to a
-5k event sometime around mid December to mid January.
+I'm using [Garmin Coach Plans](https://connect.garmin.com/features/coach/) to
+make this happen.  One of their recommendations is to sign up for a 5k race near
+the end of the 8 to 15 weeks of training.  So Monica and I signed up to walk/run
+this 5k in January.
 
-This will give me plenty of time to train and allow others to join in on the
-fun.  Let me know if you're interested!
+https://runsignup.com/Race/TX/Austin/TheBigfootClassicAustin?raceRefCode=5442L5uX
+
+It's far enough out to plan something outside of the holidays, so come join us!
