@@ -16,3 +16,6 @@ static/images/2023-10-07-withings-smart-scale.jpg filter=lfs diff=lfs merge=lfs 
 static/images/2023-11-04_20-15-bone-conducting-headphones.png filter=lfs diff=lfs merge=lfs -text
 static/images/2023-10-17-liver-biopsy-tissue.jpg filter=lfs diff=lfs merge=lfs -text
 static/images/2023-10-7-before-and-after.jpg filter=lfs diff=lfs merge=lfs -text
+static/images/2024-10-12-benchmark-5k-completion-stats.jpeg filter=lfs diff=lfs merge=lfs -text
+static/images/2024-10-12-benchmark-5k-dead-picture.jpeg filter=lfs diff=lfs merge=lfs -text
+static/images/2024-10-12-benchmark-5k-walk-run-breakdown.jpeg filter=lfs diff=lfs merge=lfs -text
