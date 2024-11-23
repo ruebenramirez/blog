@@ -1,3 +1,4 @@
+.go/**
 .*.sw*
 .venv
 *.pyc
