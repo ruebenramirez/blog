@@ -19,7 +19,9 @@ I've used the [vimium](https://github.com/philc/vimium) browser extension to nav
 
 ### firenvim
 
-For all that vimium does so well, its main shortcoming is that I still have to edit text in HTML textareas without the help of my vim muscle memory.  It's kind of a jarring experience.  I finally took the time to look for solutions to this problem and found the [firenvim](https://github.com/glacambre/firenvim) browser extension.  It supports chrome (and chromium browser variants) as well as firefox.  The general idea here is that focusing on an HTML text element loads up an instance of neovim directly over the textarea.  This is a "real" instance of neovim, with all of your editor customization goodness.  You use that full blown neovim instance to edit the text you want to submit in that HTML text element and then `:wq` to submit the buffer to the page.  This leaves you with a bunch of text entered into the normal HTML text box and then normal browser usage resumes.
+For all that vimium does so well, its main shortcoming is that I still have to edit text in HTML textareas without the help of my vim muscle memory.  It's kind of a jarring experience.  I finally took the time to look for solutions to this problem and found the [firenvim](https://github.com/glacambre/firenvim) browser extension.  It supports chrome (and chromium browser variants) as well as firefox.
+
+The general idea here is that focusing on an HTML text element loads up an instance of neovim directly over the textarea.  This is a "real" instance of neovim, with all of your editor customization goodness.  You use that full blown neovim instance to edit the text you want to submit in that HTML text element and then `:wq` to submit the buffer to the page.  This leaves you with a bunch of text entered into the normal HTML text box and then normal browser usage resumes.
 
 <img src="/images/screenshot-2025-01-09-18:48:08.png" alt="" width="800" />
 
@@ -39,4 +41,4 @@ Whenever a textarea html element is focused on, the firenvim extension loads up 
 
 I have a habit of using <C-w> to delete the previous word while I'm in insert mode.  <C-w> while editing text in neovim in one of these textareas, closes the browser tab.  It would be nice to override common keybindings inside the neovim session.
 
-
+This one seems to be the biggest issue: I'm unable to paste directly into the neovim overlay.  I've been working around this by exiting the neovim overlay, pasting to the text area directly, and then reloading the neovim overlay with <C-e> to jump back into the vim world.
