@@ -30,15 +30,13 @@ The general idea here is that focusing on an HTML text element loads up an insta
 
 The initial setup is pretty straight forward: there's a vim plugin to install, then separately a browser plugin/extension to install, and finally a browser restart is required.
 
-I had a little bit of trouble initially, but found a tip for <C-e> once you focus in the text area to force the plugin to load.
+I had a little bit of trouble initially, but found a tip for `<C-e>` once you focus in the text area to force the plugin to load.
 
 
 ### a wishlist
 
 This is an amazing improvement over entering text without key bindings inside HTML textareas, but there are a few things that would make this even better.
 
-Whenever a textarea html element is focused on, the firenvim extension loads up neovim.  One thing I think would improve on this would be to only load the extension via the <C-e> keyboard shortcut.
-
-I have a habit of using <C-w> to delete the previous word while I'm in insert mode.  <C-w> while editing text in neovim in one of these textareas, closes the browser tab.  It would be nice to override common keybindings inside the neovim session.
-
-This one seems to be the biggest issue: I'm unable to paste directly into the neovim overlay.  I've been working around this by exiting the neovim overlay, pasting to the text area directly, and then reloading the neovim overlay with <C-e> to jump back into the vim world.
+- Whenever a textarea html element is focused on, the firenvim extension loads up neovim.  One thing I think would improve on this would be to **only load the extension via the `<C-e>` keyboard shortcut**.
+- I have a habit of using `<C-w>` to delete the previous word while I'm in insert mode.  **`<C-w>`, while editing text in neovim in one of these textareas, closes the browser tab**.  It would be nice to override common keybindings inside the neovim session.
+- This one seems to be the biggest issue: **I'm unable to paste directly into the neovim overlay**.  I've been working around this by exiting the neovim overlay, pasting to the text area directly, and then reloading the neovim overlay with <C-e> to jump back into the vim world.
