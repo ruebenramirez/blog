@@ -43,9 +43,6 @@ googleAnalytics = ""
     fa_icon = "fab fa-github fa-1x"          # Font Awesome icon class
     href = "http://github.com/ruebenramirez"      # Link to associate with icon (http://, https://, mailto:)
   [[params.social]]
-    fa_icon = "fab fa-linkedin-in fa-1x"
-    href = "https://www.linkedin.com/in/rueben-ramirez-3063b47/"
-  [[params.social]]
     fa_icon = "fab fa-twitter fa-1x"
     href = "https://twitter.com/ruebenramirez"
   [[params.social]]
