@@ -4,4 +4,4 @@ dev-server-run-tailscale:
 	hugo server --bind="$(TAILSCALE_IP)" --port=1313 --baseURL="http://$(TAILSCALE_IP)"
 
 local-server-run:
-	hugo server --port=1313
+	hugo server -D --port=1313
