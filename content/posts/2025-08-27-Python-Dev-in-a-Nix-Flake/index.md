@@ -24,6 +24,18 @@ development environments. Flakes provide reproducible environments through
 declarative syntax while direnv makes it super easy to load the environment.
 
 
+### TL;DR
+
+If you're pressed for time, you can check out the example in this codeberg git
+repo: https://codeberg.org/ruebenramirez/python-dev-nix-flake
+
+- Check that [Nix](https://nixos.org/download/) is installed on your machine
+- git clone the repo and cd into your new local working copy directory
+- `direnv allow`  You, 4 minutes ago - docs: how to get started
+- `uv sync`
+- `uv run main.py`
+
+
 ### A simple Nix flake
 
 `flake.nix`
