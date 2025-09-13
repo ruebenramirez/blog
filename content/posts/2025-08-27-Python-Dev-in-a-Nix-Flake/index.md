@@ -26,12 +26,12 @@ declarative syntax while direnv makes it super easy to load the environment.
 
 ### TL;DR
 
-If you're pressed for time, you can check out the example in this codeberg git
-repo: https://codeberg.org/ruebenramirez/python-dev-nix-flake
+You can check out the example in this git repo tag:
+https://codeberg.org/ruebenramirez/python-dev-nix-flake/src/tag/simple-uv-nix-flake
 
 - Check that [Nix](https://nixos.org/download/) is installed on your machine
 - git clone the repo and cd into your new local working copy directory
-- `direnv allow`  You, 4 minutes ago - docs: how to get started
+- `direnv allow`
 - `uv sync`
 - `uv run main.py`
 
