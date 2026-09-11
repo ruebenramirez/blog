@@ -1,7 +1,10 @@
 ---
 title: "KDE Connect for Open Ecosystem Integration"
 date: 2026-09-10T15:32:16-05:00
-draft: false
+categories:
+- tech
+tags:
+- tech-tip
 ---
 
 ![KDE Connect showing SMS messages on desktop](./screenshot-2026-09-10-20:02:05.png)
