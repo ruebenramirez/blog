@@ -11,7 +11,8 @@ It's difficult balancing the importance of maintaining documentation with the
 pain required to write it.  Or at least it was before capable LLMs became so
 accessible.
 
-I originally learned about mermaid diagrams a couple of years ago.  I
+I originally learned about [mermaid
+diagrams](https://github.com/mermaid-js/mermaid) a couple of years ago.  I
 immediately thought, "What a great idea to capture diagrams with code to allow
 version controlling the docs in the same repo as the software itself". Then I
 closed the website and never got around to actually writing mermaid code.
