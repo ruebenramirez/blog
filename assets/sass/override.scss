@@ -100,6 +100,17 @@ img {
 	border-radius: .2rem;
 }
 
+figure {
+  margin: 0 0 1rem;
+}
+
+figcaption {
+  margin-top: 0.4rem;
+  color: rgba($body-color, 0.65);
+  font-size: 0.8rem;
+  text-align: center;
+}
+
 h4 {
   margin-top: 2.2rem;
   margin-bottom: 0.7rem;
