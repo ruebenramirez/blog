@@ -1,0 +1,33 @@
+%%{init: {"themeVariables": {"fontSize": "18px"}, "flowchart": {"curve": "linear"}}}%%
+flowchart TD
+    fiber["AT&T Fiber"] --> ont["ONT"]
+    ont --> attRouter["AT&T Gateway"]
+    attRouter -- "IP Passthrough" --> wifi1["Primary Router<br/>wifi1 · Flint 2"]
+
+    wifi1 --> phones["Phones"]
+    wifi1 --> laptops["Laptops"]
+    wifi1 --> tablets["Tablets"]
+    wifi1 --> ereaders["E-readers"]
+    wifi1 --> watches["Watches"]
+    wifi1 --> scale["Smart Scale"]
+    phones ~~~ ereaders
+    laptops ~~~ watches
+    tablets ~~~ scale
+    wifi1 -. "WDS Bridge" .-> wifi2["Bridge Router<br/>wifi2 · Flint 2"]
+
+    wifi2 --> homeserver["homeserver"]
+    wifi2 --> xps["xps17"]
+    wifi2 --> pi["py-syncoid-target"]
+    wifi2 --> framework["fwai0"]
+    homeserver ~~~ pi
+    xps ~~~ framework
+
+    classDef internet fill:#d8f3dc,stroke:#1b4332,stroke-width:2px,color:#1b4332;
+    classDef network fill:#d4f1f9,stroke:#05445e,stroke-width:2px,color:#05445e;
+    classDef client fill:#f3e8ff,stroke:#6b21a8,stroke-width:2px,color:#581c87;
+    classDef host fill:#ffe8cc,stroke:#9a3412,stroke-width:2px,color:#7c2d12;
+
+    class fiber internet;
+    class ont,attRouter,wifi1,wifi2 network;
+    class phones,laptops,tablets,ereaders,watches,scale client;
+    class homeserver,xps,pi,framework host;
